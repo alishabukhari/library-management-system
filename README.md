@@ -47,7 +47,7 @@ library-management-system/
 
 ## ▶️ How to Run
 
-```bash
+```
 gcc src/main.c -o library
 ./library
 ```
